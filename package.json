@@ -1,0 +1,14 @@
+{
+  "name": "mochaemailzipspecialchartest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
